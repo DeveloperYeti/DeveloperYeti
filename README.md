@@ -1,19 +1,3 @@
-### Hi there 👋
-
-<!--
-**DeveloperYeti/DeveloperYeti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently studyinh on Korean PloyTech
-
-- 🌱 My major is Aritficial intelligence 
-
-- 👯 I’m looking to collaborate
-
--[![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://GitHub.com/Naereen/ama)
-
-- 📫 How to reach me: hoseok9823@gmail.com send to mail
-
-
-
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
+<img src="https://img.shields.io/badge/Py-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
