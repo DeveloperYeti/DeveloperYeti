@@ -1,3 +1,2 @@
-<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-<img src="https://img.shields.io/badge/Py-3DDC84?style=flat-square&logo=Android&logoColor=white"/> 
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DeveloperYeti&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperYeti&layout=compact)](https://github.com/delay-100/github-readme-stats)
