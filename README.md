@@ -16,9 +16,9 @@
 ### Language
 
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
-[![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)]
-[![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)]
-[![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)]
+![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![Kotlin Badge](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
 
 ### FrameWrok
