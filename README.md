@@ -1,6 +1,12 @@
 ### About me
 <h1 align="left">Hi , this is Hoseok Jang , DeveloperYeti , Take steps towards your dream with me </h1> 
-
+<div>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+</div>
 
 
 
