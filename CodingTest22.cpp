@@ -10,6 +10,7 @@ int main22()
 	for (int i = 0; i <= sizeof(d); i++)
 		{
 			cout << d[i] << endl;
+			return 0;
 		}
 
 }

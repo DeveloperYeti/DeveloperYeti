@@ -5,19 +5,19 @@
 #include <vector>
 
 using namespace std;
-int main()
-{
-	char arr[30];
-	cin.getline(arr, 30);
-	int len = strlen(arr);
-	for (int i = 4; i >= len; i--)
+int main23()
+{	
+
+	string a;
+	int temp = 0;
+	int square = 10000;
+	cin >> a;
+	for (int i = 0; i < a.size(); i++)
 		{
-		int num = arr[i] - '0';
-		
-		for (int i = 0; i <= len; i++)
-			{
-				
-			}
-		
+			temp = a[i] - '0';
+			cout << temp * square << endl;
+			square /= 10;
+			                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
 		}
+	return 0;
 }

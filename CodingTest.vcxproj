@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -143,9 +143,39 @@
     <ClCompile Include="CodingTest21.cpp" />
     <ClCompile Include="CodingTest22.cpp" />
     <ClCompile Include="CodingTest23.cpp" />
+    <ClCompile Include="CodingTest24.cpp" />
+    <ClCompile Include="CodingTest25.cpp" />
+    <ClCompile Include="CodingTest26.cpp" />
+    <ClCompile Include="CodingTest27.cpp" />
+    <ClCompile Include="CodingTest28.cpp" />
+    <ClCompile Include="CodingTest29.cpp" />
     <ClCompile Include="CodingTest3.cpp" />
+    <ClCompile Include="CodingTest30.cpp" />
+    <ClCompile Include="CodingTest31.cpp" />
+    <ClCompile Include="CodingTest32.cpp" />
+    <ClCompile Include="CodingTest33.cpp" />
+    <ClCompile Include="CodingTest34.cpp" />
+    <ClCompile Include="CodingTest35.cpp" />
+    <ClCompile Include="CodingTest36.cpp" />
+    <ClCompile Include="CodingTest37.cpp" />
+    <ClCompile Include="CodingTest38.cpp" />
+    <ClCompile Include="CodingTest39.cpp" />
     <ClCompile Include="CodingTest4.cpp" />
+    <ClCompile Include="CodingTest40.cpp" />
+    <ClCompile Include="CodingTest41.cpp" />
+    <ClCompile Include="CodingTest42.cpp" />
+    <ClCompile Include="CodingTest43.cpp" />
+    <ClCompile Include="CodingTest44.cpp" />
+    <ClCompile Include="CodingTest45.cpp" />
+    <ClCompile Include="CodingTest46.cpp" />
+    <ClCompile Include="CodingTest47.cpp" />
+    <ClCompile Include="CodingTest48.cpp" />
+    <ClCompile Include="CodingTest49.cpp" />
     <ClCompile Include="CodingTest5.cpp" />
+    <ClCompile Include="CodingTest50.cpp" />
+    <ClCompile Include="CodingTest51.cpp" />
+    <ClCompile Include="CodingTest52.cpp" />
+    <ClCompile Include="CodingTest53.cpp" />
     <ClCompile Include="CodingTest6.cpp" />
     <ClCompile Include="CodingTest7.cpp" />
     <ClCompile Include="CodingTest8.cpp" />
