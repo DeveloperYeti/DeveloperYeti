@@ -10,5 +10,5 @@ int main()
 	int num;
 	cin >> num;
 	cout << bitset<16>(num);
-	return 0l = ;
+	return 0 ;
 }
