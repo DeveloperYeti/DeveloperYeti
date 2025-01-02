@@ -21,5 +21,5 @@ int main52()
 	{
 		cout << "잘못된 입력 값";
 	}
-
+	return 0;
 }
