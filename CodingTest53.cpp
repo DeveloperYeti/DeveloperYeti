@@ -4,11 +4,12 @@
 
 
 using namespace std;
-int main()
+int main53()
 
 {	
 	int num;
 	cin >> num;
 	cout << bitset<16>(num);
+	cout << ~num;
 	return 0 ;
 }
